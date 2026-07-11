@@ -1,3 +1,7 @@
+streamlit
+pandas
+pillow
+pytesseract
 annotated-types==0.7.0
 anyio==4.14.1
 certifi==2026.6.17
